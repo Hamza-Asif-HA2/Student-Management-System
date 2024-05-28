@@ -1,0 +1,1 @@
+Developed a C++ student guide program enabling students to search for rooms, cafes, masjids, and offices, and schedule meetings with professors. This application showcases advanced data handling and console based user interface design in C++
